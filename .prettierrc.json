@@ -6,6 +6,5 @@
   "tabWidth": 2,
   "singleQuote": true,
   "arrowParens": "always",
-  "endOfLine": "lf",
-  "tailwindStylesheet": "./src/styles/global.css"
+  "endOfLine": "lf"
 }
